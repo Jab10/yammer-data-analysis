@@ -13,10 +13,10 @@ We have fowllowed the folowing steps:
 
 ## 1. Setting up a dashboard in Mode
 First of all, we made a query:
-![Events](https://github.com/AsiMrz/)
+
 
 
 ## 2. Getting an Overview of the datasets
 Because the Dataset was available on the Mode, we could access the Data easily like this:
-![Events Table](https://github.com/AsiMrz/yammer-events-users/blob/main/Ya
+
 
