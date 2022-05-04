@@ -18,5 +18,4 @@ First of all, we made a query:
 
 ## 2. Getting an Overview of the datasets
 Because the Dataset was available on the Mode, we could access the Data easily like this:
-
-
+![Screenshot (2)](https://user-images.githubusercontent.com/64433442/166748930-ad304542-e6cc-4390-8bcf-14fcb782a5f2.png)
