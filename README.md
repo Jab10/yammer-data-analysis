@@ -6,7 +6,7 @@ Data analytics on the users and events data of Yammer.
 
 The aim of this Analysis is to check **why there is a drop in user engagement**.
 
-**Dataset:** it is provided by Yammer's Data analytics team. The data is divided into two diffrent parts **tutorial.yammer_users** and **tutorial .yammer_events**. The details will be explained vividly in the next part.
+**Dataset:** The data was provided by the Yammer data analyts and it was grouped into two different parts, **tutorial.yammer_users** and **tutorial .yammer_events**. The details will be explained vividly in the next part.
 
 Mode is a platform to access the database and analyse the data. It is also possible to Export a report from the ...
 The Steps below was considered:
